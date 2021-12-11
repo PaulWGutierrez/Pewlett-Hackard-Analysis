@@ -18,5 +18,5 @@
 <img width="221" alt="departments" src="https://user-images.githubusercontent.com/86431959/129496252-7ffe8cc2-d6be-4ea3-b41c-ded6cce3dbc5.png"><img width="130" alt="retiring employees" src="https://user-images.githubusercontent.com/86431959/129496263-c59b19eb-257e-43b9-9de5-8c439c27eb9b.png">
 
 ## Contact:
-##### E-mail: gutierrezpaul7@yahoo.com
+##### E-mail: gutierrezpaulw7@gmail.com
 ##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
