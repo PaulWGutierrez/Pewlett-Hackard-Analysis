@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 
 ## Overview of the analysis: 
 #### The purpose of this analysis is to research who and how many employees will be retiring and how many positions will Pewlett Hackard need to fill. This in result will also find out which employees are eligible for the retirement package.
